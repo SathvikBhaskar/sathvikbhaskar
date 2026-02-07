@@ -4,9 +4,12 @@
   
   <br />
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Robust+Systems;Exploring+Post-Quantum+Cryptography;Optimizing+ML+Predictions;Developing+Secure+Backends" alt="Typing SVG" />
-  </a>
+  <!-- Bio Style Match -->
+  <h3>
+    Full-Stack 💻 | AI & ML 🤖 | Cryptography 🔐 | System Security 🛡️<br>
+    Building Robust Systems ⚡ | 👨‍💻 Focused on Correctness & Efficiency<br>
+    Lifelong learner exploring Post-Quantum Security 🌌
+  </h3>
   
   <p align="center">
     <a href="https://linkedin.com/in/sathvik-bhaskar">
@@ -16,10 +19,6 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
-</div>
-
-<div align="center">
-  <h3>✨ "I care more about correctness, efficiency, and data quality than flashy results." ✨</h3>
 </div>
 
 ---
