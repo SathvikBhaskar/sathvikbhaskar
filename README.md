@@ -76,12 +76,12 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Simplified Dark Theme Stats (Reliable) -->
+  <!-- Status Check: github-readme-stats service is currently Intermittent/503. -->
   <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=dark&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=black-ice&hide_border=false" alt="Streak Stats" />
 </div>
 
 ---
