@@ -68,7 +68,7 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 <div align="center">
   <!-- connect4:start -->
   <!-- connect4:end -->
-  <p>Click on a column number to drop a chip!</p>
+  <p><b>🕹️ How to Play:</b> Click on a column number to drop your chip! <br> (It opens an issue – just click "Submit" to make your move)</p>
 </div>
 
 ---
