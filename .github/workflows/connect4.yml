@@ -1,7 +1,7 @@
 name: Connect 4
 on:
-  issue_comment:
-    types: [created]
+  issues:
+    types: [opened]
   workflow_dispatch:
   push:
     branches:
