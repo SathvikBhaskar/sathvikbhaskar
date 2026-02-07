@@ -75,14 +75,10 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 
 ### 📊 GitHub Stats
 
-<!-- Final Selection: Black Ice Theme (Matches User Choice) -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=black-ice&bg_color=000000&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=black-ice&bg_color=000000&hide_border=false" alt="Streak Stats" />
-</div>
 
 ---
 
