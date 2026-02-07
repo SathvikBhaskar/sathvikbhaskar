@@ -77,9 +77,9 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Dark Theme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
+  <!-- Dark Theme Stats (Using Mirror due to main API 503 outage) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
