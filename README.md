@@ -1,15 +1,12 @@
 <div align="center">
   <!-- Waving Capsule Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20%7C%20Crypto%20%7C%20System%20Security&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20%7C%20Crypto%20%7C%20System%20Security&descAlignY=55&descAlign=50" width="100%" alt="Header" />
   
   <br />
   
-  <!-- Bio Style Match -->
-  <h3>
-    Full-Stack 💻 | AI & ML 🤖 | Cryptography 🔐 | System Security 🛡️<br>
-    Building Robust Systems ⚡ | 👨‍💻 Focused on Correctness & Efficiency<br>
-    Lifelong learner exploring Post-Quantum Security 🌌
-  </h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Robust+Systems;Exploring+Post-Quantum+Cryptography;Optimizing+ML+Predictions;Developing+Secure+Backends" alt="Typing SVG" />
+  </a>
   
   <p align="center">
     <a href="https://linkedin.com/in/sathvik-bhaskar">
@@ -19,6 +16,10 @@
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </a>
   </p>
+</div>
+
+<div align="center">
+  <h3>✨ "I care more about correctness, efficiency, and data quality than flashy results." ✨</h3>
 </div>
 
 ---
