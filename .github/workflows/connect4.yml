@@ -2,6 +2,10 @@ name: Connect 4
 on:
   issue_comment:
     types: [created]
+  workflow_dispatch:
+  push:
+    branches:
+    - main
 jobs:
   connect4:
     runs-on: ubuntu-latest
