@@ -1,0 +1,33 @@
+name: Tic-Tac-Toe Game
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play-ttt:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'ttt|move|') || startsWith(github.event.issue.title, 'ttt|reset')
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run Game Logic
+        run: node .github/scripts/ttt.js "${{ github.event.issue.title }}"
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: Update Tic-Tac-Toe Board (${{ github.event.issue.title }})" || exit 0
+          git push
+
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Move processed! Check the README."

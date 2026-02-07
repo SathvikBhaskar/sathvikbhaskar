@@ -63,12 +63,40 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 
 ---
 
-### 🎮 Connect 4 Board
+---
+
+### 🕹️ Mini Games Zone
 
 <div align="center">
+  <h4>1. Connect 4 (Community vs Community)</h4>
   <!-- connect4:start -->
   <!-- connect4:end -->
-  <p><b>🕹️ How to Play:</b> Click on a column number to drop your chip! <br> (It opens an issue – just click "Submit" to make your move)</p>
+  <p><b>How to Play:</b> Click a column number to drop a chip!</p>
+</div>
+
+<div align="center">
+  <h4>2. Tic-Tac-Toe (You vs Bot) �</h4>
+  <!-- ttt:start -->
+  <p>Status: <b>Start a Game!</b></p>
+  <table align="center">
+    <tr>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|1&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|2&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|3&body=Just+click+submit+to+play!">⬜</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|4&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|5&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|6&body=Just+click+submit+to+play!">⬜</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|7&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|8&body=Just+click+submit+to+play!">⬜</a></td>
+      <td align="center"><a href="https://github.com/SathvikBhaskar/sathvikbhaskar/issues/new?title=ttt|move|9&body=Just+click+submit+to+play!">⬜</a></td>
+    </tr>
+  </table>
+  <!-- ttt:state:......... -->
+  <!-- ttt:end -->
 </div>
 
 ---
