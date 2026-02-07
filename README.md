@@ -1,13 +1,10 @@
 <div align="center">
-  <!-- Profile Trophies (Dynamic & Attractive) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SathvikBhaskar&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <!-- Profile Updated: v2.5 Space Theme -->
+  <!-- Waving Capsule Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20%7C%20Crypto%20%7C%20System%20Security&descAlignY=55&descAlign=50" width="100%" alt="Header" />
   
   <br />
   
-  <h1 align="center">Hi there, I'm Sathvik Bhaskar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"></h1>
-
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Robust+Systems;Exploring+Post-Quantum+Cryptography;Optimizing+ML+Predictions;Developing+Secure+Backends" alt="Typing SVG" />
   </a>
