@@ -1,68 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sathvik Bhaskar</h1>
-<h3 align="center">Systems-oriented developer working across software, security, and hardware-aware design</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sathvikbhaskar&label=Profile%20views&color=0e75b6&style=flat" alt="sathvikbhaskar" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sathvikbhaskar&theme=flat&no-frame=true" alt="sathvikbhaskar" />
+<div align="center">
+  <!-- Waving Capsule Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20%7C%20Crypto%20%7C%20System%20Security&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  
+  <br />
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Robust+Systems;Exploring+Post-Quantum+Cryptography;Optimizing+ML+Predictions;Developing+Secure+Backends" alt="Typing SVG" />
   </a>
-</p>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/sathvik-bhaskar">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/SathvikBhaskar">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on  
-  **Data Structures & Algorithms in C++ and Java (STL-heavy, interview-focused)**  
-  **Cryptography and security implementations (SHA-3, SHAKE, NTT, Dilithium internals)**  
-  **Hardware-aware designs including camera privacy mechanisms and system-level logic**
+<div align="center">
+  <h3>✨ "I care more about correctness, efficiency, and data quality than flashy results." ✨</h3>
+</div>
 
-- 🌱 I’m currently learning  
-  **Post-quantum cryptography and NTT optimizations**  
-  **Hardware–software co-design and low-level performance considerations**
+---
 
-- 👯 I’m looking to collaborate on  
-  **Systems-level projects combining hardware logic and software control**  
-  **Security, cryptography, or performance-critical C++/Java projects**
+### 🚀 About Me
 
-- 🤝 I’m looking for help with  
-  **Code reviews for cryptographic and performance-sensitive implementations**  
-  **Bridging hardware constraints with efficient software design**
+I'm a developer focused on building robust systems, from **full-stack web applications** to **cryptographic implementations** and **ML-based prediction systems**. I thrive on solving complex problems involving **Data Structures & Algorithms** and ensuring security and performance at the core of my projects.
 
-- 💬 Ask me about  
-  **Performance-critical C++/Java code and algorithmic trade-offs**  
-  **Cryptography, NTT-based arithmetic, and hardware–software co-design**
+- 🔭 I’m currently working on **Data Structures & Algorithms in C++** and **Cryptography (Dilithium internals)**.
+- 🌱 I’m currently learning **Post-Quantum Cryptography** and **NTT optimizations**.
+- 👯 I’m looking to collaborate on **Systems-level security** and **ML prediction projects**.
+- 💬 Ask me about **DSA, Cryptography, and Backend Integration**.
 
-- 📫 How to reach me  
-  **vodurisathvik@gmail.com**
+---
 
-- ⚡ Fun fact  
-  **I care more about correctness, efficiency, and constraints than fancy abstractions.**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sathvik-bhaskar/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,react,tailwind,html,css,nodejs,express,mysql,postgres,mongodb,oracle,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" />
+    </a>
+  </p>
+  
+  <!-- Cryptography & Specialized Tools (Not in SkillIcons) -->
+  <p>
+    <img src="https://img.shields.io/badge/SHA--3-Standard-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Dilithium-Cryptography-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/NTT-Optimizations-success?style=for-the-badge" />
+  </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-</p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sathvikbhaskar&layout=compact" />
-</p>
+### 🐍 Contribution Activity
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sathvikbhaskar&show_icons=true" />
-</p>
+<div align="center">
+  <img src="https://github.com/SathvikBhaskar/SathvikBhaskar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikbhaskar" />
-</p>
+---
+
+### 🎮 Connect 4 Board
+
+<div align="center">
+  <!-- connect4:start -->
+  <!-- connect4:end -->
+  <p>Click on a column number to drop a chip!</p>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=midnight-purple&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&hide_border=true" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=midnight-purple&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <h3>🌌 "Exploring the depths of code and crypto" 🌌</h3>
+</div>
