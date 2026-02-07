@@ -75,13 +75,25 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 
 ### 📊 GitHub Stats
 
+<!-- OPTION 1: Neon Space (Radical) - Black BG -->
 <div align="center">
-  <!-- Status Check: github-readme-stats service is currently Intermittent/503. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+  <h4>Option 1: Neon Space (Black) 🌌</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=radical&bg_color=000000&hide_border=true" height="180" alt="Stats Radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=radical&bg_color=000000&hide_border=true" alt="Streak Radical" />
 </div>
 
+<!-- OPTION 2: Cyber Blue (Tokyonight) - Black BG -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=black-ice&hide_border=false" alt="Streak Stats" />
+  <h4>Option 2: Cyber Blue (Black) 🤖</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=tokyonight&bg_color=000000&hide_border=true" height="180" alt="Stats Tokyo" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=tokyonight&bg_color=000000&hide_border=true" alt="Streak Tokyo" />
+</div>
+
+<!-- OPTION 3: Elegant Gold (Merko) - Black BG -->
+<div align="center">
+  <h4>Option 3: Elegant Gold (Black) ⚡</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=merko&bg_color=000000&hide_border=true" height="180" alt="Stats Merko" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=highcontrast&bg_color=000000&hide_border=true" alt="Streak Contrast" />
 </div>
 
 ---
