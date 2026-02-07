@@ -76,13 +76,12 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Dark Theme Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
+  <!-- Simplified Dark Theme Stats (Reliable) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=dark&bg_color=0d1117&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=dark&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
