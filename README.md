@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- Profile Updated: v2.5 Space Theme -->
   <!-- Waving Capsule Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20ML%20%7C%20Crypto%20%7C%20System%20Security&descAlignY=55&descAlign=50" width="100%" alt="Header" />
   
@@ -77,9 +76,9 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Dark Theme Stats (Using Mirror due to main API 503 outage) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
+  <!-- Dark Theme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
