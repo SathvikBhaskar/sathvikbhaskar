@@ -6,6 +6,8 @@ on:
   push:
     branches:
     - main
+permissions:
+  contents: write
 jobs:
   connect4:
     runs-on: ubuntu-latest

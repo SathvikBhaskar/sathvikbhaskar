@@ -57,7 +57,8 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://github.com/SathvikBhaskar/SathvikBhaskar/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <!-- Fixed: Using raw.githubusercontent.com for the image source -->
+  <img src="https://raw.githubusercontent.com/SathvikBhaskar/sathvikbhaskar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
@@ -75,13 +76,13 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Note: Removed 'theme' param to rely on explicit colors for stability -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&hide_border=true" height="180" alt="Top Languages" />
+  <!-- Dark Theme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikBhaskar&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&bg_color=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikBhaskar&theme=dark&bg_color=0d1117&hide_border=true" alt="Streak Stats" />
 </div>
 
 ---
