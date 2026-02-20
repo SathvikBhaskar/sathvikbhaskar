@@ -63,14 +63,6 @@ I'm a developer focused on building robust systems, from **full-stack web applic
 
 ---
 
-### 🎮 Connect 4 Board
-
-<div align="center">
-  <!-- connect4:start -->
-  <!-- connect4:end -->
-  <p><b>🕹️ How to Play:</b> Click on a column number to drop your chip! <br> (It opens an issue – just click "Submit" to make your move)</p>
-</div>
-
 ---
 
 ### 📊 GitHub Stats
