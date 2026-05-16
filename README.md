@@ -9,16 +9,16 @@
 
   <br />
 
-  <a href="mailto:placeholder@example.com">
+  <a href="mailto:vodurisathvik@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/placeholder">
+  <a href="https://www.linkedin.com/in/sathvik-bhaskar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SathvikBhaskar">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://portfolio.example.com">
+  <a href="https://sathvikbhaskar.github.io/sathvik-bhaskar-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
