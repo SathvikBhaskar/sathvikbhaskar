@@ -14,14 +14,20 @@ Electronics and Computer Engineering student focused on designing high-performan
 
 ## Technical Stack
 
-```text
-Languages       : C, C++, Python, Java
-Backend         : FastAPI, Flask
-Cloud & Infra   : AWS, Docker, Linux
-Databases       : PostgreSQL, DynamoDB, SQLite
-Hardware        : Verilog, ESP32, ModelSim
-Version Control : Git
-```
+<div align="center">
+<p>
+<a href="https://skillicons.dev">
+ <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,react,tailwind,html,css,nodejs,express,mysql,postgres,mongodb,oracle,pytorch,tensorflow,sklearn,pandas,numpy&theme=dark" />
+</a>
+</p>
+
+<!-- Cryptography & Specialized Tools -->
+<p>
+<img src="https://img.shields.io/badge/SHA--3-Standard-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dilithium-Cryptography-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NTT-Optimizations-success?style=for-the-badge" />
+</p>
+</div>
 
 ---
 
@@ -67,9 +73,30 @@ Version Control : Git
 
 ---
 
-## GitHub Analytics
+### 🐍 Contribution Activity
 
-![Sathvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<div align="center">
+<!-- Fixed: Using raw.githubusercontent.com for the image source -->
+<img src="https://raw.githubusercontent.com/SathvikBhaskar/sathvikbhaskar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=black-ice&bg_color=000000&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
+</div>
+
+---
+
+### 🎮 Connect 4 Board
+
+<div align="center">
+  <!-- connect4:start -->
+  <!-- connect4:end -->
+  <p><b>🕹️ How to Play:</b> Click on a column number to drop your chip! <br> (It opens an issue – just click "Submit" to make your move)</p>
+</div>
 
 ---
 
@@ -78,3 +105,9 @@ Version Control : Git
 - **LinkedIn**: [linkedin.com/in/placeholder](#)
 - **Portfolio**: [portfolio.example.com](#)
 - **GitHub**: [github.com/SathvikBhaskar](https://github.com/SathvikBhaskar)
+
+---
+
+<div align="center">
+<h3>🌌 "Exploring the depths of code and crypto" 🌌</h3>
+</div>
