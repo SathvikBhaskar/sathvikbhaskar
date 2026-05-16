@@ -1,8 +1,22 @@
-# Sathvik Bhaskar
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,300a24,58a6ff&height=300&section=header&text=Sathvik%20Bhaskar&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Cloud%20%7C%20Hardware%20%7C%20Cryptography&descAlignY=55&descAlign=50" width="100%" alt="Header" />
 
-**Building practical computing systems across software, cloud, and hardware.**
+  <br />
 
-[Portfolio](#) | [LinkedIn](#) | [Email](mailto:placeholder@example.com)
+  **Building practical computing systems across software, cloud, and hardware.**
+
+  <br />
+
+  <a href="mailto:placeholder@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/placeholder">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio.example.com">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
 
