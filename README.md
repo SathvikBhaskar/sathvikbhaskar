@@ -3,7 +3,9 @@
 
   <br />
 
-  **Building practical computing systems across software, cloud, and hardware.**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+practical+computing+systems;Architecting+scalable+cloud+infrastructure;Designing+cryptographic+hardware+accelerators;Developing+high-performance+backend+services" alt="Typing SVG" />
+  </a>
 
   <br />
 
@@ -94,23 +96,7 @@ Electronics and Computer Engineering student focused on designing high-performan
 <img src="https://raw.githubusercontent.com/SathvikBhaskar/sathvikbhaskar/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SathvikBhaskar&show_icons=true&theme=black-ice&bg_color=000000&hide_border=true" height="180" alt="Sathvik's GitHub Stats" />
-</div>
-
----
-
-### 🎮 Connect 4 Board
-
-<div align="center">
-  <!-- connect4:start -->
-  <!-- connect4:end -->
-  <p><b>🕹️ How to Play:</b> Click on a column number to drop your chip! <br> (It opens an issue – just click "Submit" to make your move)</p>
-</div>
 
 ---
 
