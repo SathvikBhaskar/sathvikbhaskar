@@ -15,8 +15,11 @@
   <a href="https://linkedin.com/in/placeholder">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/SathvikBhaskar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="https://portfolio.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -98,13 +101,7 @@ Electronics and Computer Engineering student focused on designing high-performan
 
 
 
----
 
-## Contact & Links
-
-- **LinkedIn**: [linkedin.com/in/placeholder](#)
-- **Portfolio**: [portfolio.example.com](#)
-- **GitHub**: [github.com/SathvikBhaskar](https://github.com/SathvikBhaskar)
 
 ---
 
